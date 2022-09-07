@@ -1,0 +1,5 @@
+bazel-*
+*.exe
+*.ilk
+*.pdb
+*.obj
